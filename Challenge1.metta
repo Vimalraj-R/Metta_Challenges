@@ -1,5 +1,6 @@
 ;; ----------------------------------------------------------
 ;; CHALLENGE 1: Conditional Summation
+;; challenge
 ;; ----------------------------------------------------------
 ;; TASK:
 ;; Write a higher-order function 'sumIf' that computes the sum 
