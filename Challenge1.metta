@@ -1,6 +1,6 @@
 ;; ----------------------------------------------------------
 ;; CHALLENGE 1: Conditional Summation
-;; ----------------------------------------------------------
+;; -----------------------------------------------------------
 ;; TASK:
 ;; Write a higher-order function 'sumIf' that computes the sum 
 ;; of integers within an interval [a, b], but ONLY if those 
